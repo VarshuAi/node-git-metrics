@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Analyzes local git commit histories and compiles stats of contributor frequencies directly on the command line.
+  name: node-git-metrics version: 1.0 type: Repository author: VarshuAi description: >   Analyzes local git commit histories and compiles stats of contributor frequencies directly on the command line. primary_tech: JavaScript
 primary_tech: JavaScript
 ```
 
